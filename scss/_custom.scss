@@ -1,0 +1,44 @@
+.blue
+{
+	background-color: blue;
+	background-image: url(../img/image-background.jpg);
+}
+
+.red
+{
+	background: url(../img/image-background.jpg) no-repeat center center local; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.pink
+{
+	background-color: pink;
+}
+
+.green
+{
+	background-color: green;
+}
+
+.orange
+{
+	background-color: orange;
+}
+
+.aqua
+{
+	background-color: aqua;
+}
+
+.white
+{
+	background-color: white;
+}
+
+body
+{
+	background-color: #333;
+}
